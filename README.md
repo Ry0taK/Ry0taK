@@ -7,6 +7,7 @@ Here is my little profile page...　                                            
 - <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" width="20"> <mark>Twitter</mark>: [@ryotkak](https://twitter.com/ryotkak)
 - 🌐 <mark>Website</mark>: [ryotak.net](https://ryotak.net)
 - 📖 <mark>Blog</mark>: [blog.ryotak.net](https://blog.ryotak.net)
+- 🎨 <mark>Hobby</mark>: <ruby>Dad Joke<rt>オヤジギャグ</rt></ruby>
 
 <hr/>
 <a accesskey="r" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"></a>
