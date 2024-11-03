@@ -1,5 +1,5 @@
 ---
-Here is my little profile page...　                                                                                                     : !ruby/class "　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　᠌　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Hello there! I'm RyotaK from Japan ;) "
+Here is my little profile page...　                                                                                                     : !ruby/class "　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Hello there! I'm RyotaK from Japan ;) "
 ---
 
 - ⚙️ <mark>Working as</mark>: <ruby>Security researcher<rt><ins>セキュリティ研究者</ins></rt></ruby>, <ruby>Bug bounty hunter<rt><ins>バグバウンティハンター</ins></rt></ruby> <img src="./icon.png" height="145px" align="right">
